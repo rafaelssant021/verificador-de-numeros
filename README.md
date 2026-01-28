@@ -1,0 +1,1 @@
+Site feito por javascript, html e css onde o usuario adiciona valores e ao clicar em finalizar é mostrado a quantidade de numeros informado, o maior valor, o menor valor, a soma entre eles e sua média
