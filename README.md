@@ -1,1 +1,20 @@
-Site feito por javascript, html e css onde o usuario adiciona valores e ao clicar em finalizar é mostrado a quantidade de numeros informado, o maior valor, o menor valor, a soma entre eles e sua média
+Verificador de Números
+
+Aplicação simples que verifica e analisa números com base em condições específicas.
+
+Tecnologias utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+
+Objetivo
+
+Praticar estruturas condicionais e validação de entrada de dados.
+
+O que aprendi
+
+- Condicionais (if/else)
+- Validação de input
+- Manipulação do DOM
+- Organização de lógica
